@@ -254,3 +254,369 @@
 }
 
 
+.app-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.app-header {
+  background-color: #005f73;
+  color: #fff;
+  padding: 30px 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.vision-mission {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.vision-mission div {
+  max-width: 400px;
+  margin: 10px;
+  text-align: left;
+}
+
+.vision-mission h2 {
+  color: #ffb703;
+}
+
+.admin-buttons {
+  margin: 20px 0;
+}
+
+.admin-login,
+.admin-logout {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #0081a7;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.admin-login:hover,
+.admin-logout:hover {
+  background-color: #00afb9;
+}
+
+/* Modal styles */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.modal input {
+  padding: 8px;
+  width: 80%;
+  margin-bottom: 15px;
+}
+
+.modal-buttons button {
+  margin: 5px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+
+
+.app-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.app-header {
+  background-color: #005f73;
+  color: #fff;
+  padding: 30px 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.vision-mission {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.vision-mission div {
+  max-width: 400px;
+  margin: 10px;
+  text-align: left;
+}
+
+.vision-mission h2 {
+  color: #ffb703;
+}
+
+.vision-mission textarea {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: none;
+  resize: none;
+}
+
+.contact-section {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #e0fbfc;
+  border-radius: 10px;
+}
+
+.contact-section textarea {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: none;
+  resize: none;
+}
+
+.admin-buttons {
+  margin: 20px 0;
+}
+
+.admin-login,
+.admin-logout {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #0081a7;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.admin-login:hover,
+.admin-logout:hover {
+  background-color: #00afb9;
+}
+
+/* Modal styles */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.modal input,
+.modal textarea {
+  padding: 8px;
+  width: 80%;
+  margin-bottom: 15px;
+}
+
+.modal-buttons button {
+  margin: 5px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+
+.contact-section {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #e0fbfc;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.contact-admin input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.contact-client p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+
+.contact-section {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #e0fbfc;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.contact-admin input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.contact-client p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+
+.app-header {
+  background-color: #005f73;
+  color: #fff;
+  padding: 30px 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.services h2 {
+  color: #ffb703;
+  margin-bottom: 10px;
+}
+
+.services p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+
+
+.app-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.app-header {
+  background-color: #005f73;
+  color: #fff;
+  padding: 30px 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.services h2 {
+  color: #ffb703;
+  margin-bottom: 10px;
+}
+
+.services p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.contact-section {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #e0fbfc;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.contact-admin input {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.contact-client p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.contact-client a {
+  color: #0081a7;
+  text-decoration: none;
+}
+
+.contact-client a:hover {
+  text-decoration: underline;
+}
+
+.admin-buttons {
+  margin: 20px 0;
+}
+
+.admin-login,
+.admin-logout {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #0081a7;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.admin-login:hover,
+.admin-logout:hover {
+  background-color: #00afb9;
+}
+
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.modal input {
+  padding: 8px;
+  width: 80%;
+  margin-bottom: 15px;
+}
+
+.modal-buttons button {
+  margin: 5px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
